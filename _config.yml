@@ -36,21 +36,21 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : API ansluten
-    description                           : Gör anrop till öppna API:er för ge tillförlitliga svar, alltid
+  - title                                 : Slipp manuella uträkningar och tabeller
+    description                           : Appen gör anrop till öppna API:er för ge tillförlitliga svar, alltid
     fontawesome_icon_name                 : magic
     
   - title                                 : Maximera föräldrapenningen
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : money-bill-trend-up
+    description                           : Räkna enkelt ut hur mycket hushållet får ut varje månad
+    fontawesome_icon_name                 : coins
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Skatte-beräkning
+    description                           : Du kan också använda appen till att räkna på nettolöner och kolla vad en löneökning innebär för hushållets ekonomi
+    fontawesome_icon_name                 : sack-dollar
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Dela lika
+    description                           : Få snabbt svar på er totala inkomst om en av er eller båda (dubbeldag) är föräldralediga
+    fontawesome_icon_name                 : scale-balanced
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
