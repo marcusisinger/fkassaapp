@@ -42,15 +42,15 @@ features                                  :
     
   - title                                 : Maximera föräldrapenningen
     description                           : Räkna enkelt ut hur mycket hushållet får ut varje månad
-    fontawesome_icon_name                 : coins
+    fontawesome_icon_name                 : wallet
 
   - title                                 : Skatte-beräkning
     description                           : Du kan också använda appen till att räkna på nettolöner och kolla vad en löneökning innebär för hushållets ekonomi
-    fontawesome_icon_name                 : sack-dollar
+    fontawesome_icon_name                 : funnel-dollar
 
   - title                                 : Dela lika
-    description                           : Få snabbt svar på er totala inkomst om en av er eller båda (dubbeldag) är föräldralediga
-    fontawesome_icon_name                 : scale-balanced
+    description                           : Få koll på er ekonomi i olika konstellationer så att ni kan fördela dagarna som ni vill
+    fontawesome_icon_name                 : balance-scale
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
