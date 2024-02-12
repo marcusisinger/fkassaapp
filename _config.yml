@@ -37,15 +37,15 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Slipp manuella uträkningar och tabeller
-    description                           : Appen gör anrop till öppna API:er för ge tillförlitliga svar, alltid
+    description                           : Appen gör anrop till öppna API:er så att du slipper hålla reda på regelverken
     fontawesome_icon_name                 : magic
     
   - title                                 : Maximera föräldrapenningen
-    description                           : Räkna enkelt ut hur mycket hushållet får ut varje månad
+    description                           : Räkna enkelt ut hur mycket hushållet får ut varje månad för att kunna dryga ut er ledighet
     fontawesome_icon_name                 : wallet
 
   - title                                 : Skatte-beräkning
-    description                           : Du kan också använda appen till att räkna på nettolöner och kolla vad en löneökning innebär för hushållets ekonomi
+    description                           : Räkna på nettolöner och kolla vad en löneökning innebär för hushållets ekonomi
     fontawesome_icon_name                 : funnel-dollar
 
   - title                                 : Dela lika
